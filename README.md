@@ -2,5 +2,5 @@
 
 A simple college project with a login page and a bio data page
 
-id - B520061
+id - b520061
 password- CE@iiit
